@@ -233,6 +233,16 @@ body.dark .search-field input {
 body.dark .search-field i {
     color: var(--text-color);
 }
+.sign-btn {
+    border: 1px solid #fff;
+    padding: 8px 15px;
+    border-radius: 4px;
+}
+    .sign-btn:hover {
+        color: #fff;
+        border-color: transparent;
+        background: #1dbf73;
+    }
 
 @media (max-width: 790px) {
     nav .nav-bar .sidebarOpen {
