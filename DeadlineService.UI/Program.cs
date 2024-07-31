@@ -28,7 +28,7 @@ namespace DeadlineService.UI
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Authorization}/{action=Index}");
+                pattern: "{controller=Home}/{action=Index}");
 
             app.Run();
         }
