@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadlineService.UI", "DeadlineService.UI\DeadlineService.UI.csproj", "{B8C19658-3F47-4BDC-9BB3-13B91F4BB516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C19658-3F47-4BDC-9BB3-13B91F4BB516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C19658-3F47-4BDC-9BB3-13B91F4BB516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C19658-3F47-4BDC-9BB3-13B91F4BB516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C19658-3F47-4BDC-9BB3-13B91F4BB516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B8FEE5A-744C-4EA1-9D83-2BBCE2D86624}
+	EndGlobalSection
+EndGlobal
